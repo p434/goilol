@@ -1,2 +1,0 @@
-# goilol
-this first repository 
